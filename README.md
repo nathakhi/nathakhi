@@ -4,7 +4,7 @@ I am a highly motivated and experienced healthcare professional with a demonstra
 
 ### Projects
 
-**Relationship Between Household Income And Sleep Quality: Role Of Health Status In Sleep Disparity (Grade: A+)**
+**Do Rich People Sleep in Peace? Relationship Between Income And Sleep Quality (Grade: A+)**
 - Programming language: R
 - Programming environment: Jupyter notebook
 - Packages: MASS, Stargazer
