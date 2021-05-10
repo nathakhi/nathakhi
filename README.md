@@ -1,9 +1,6 @@
 ## About me
 
-
-You can use the [editor on GitHub](https://github.com/nathakhi/nathakhi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a highly motivated and experienced healthcare professional with a demonstrated history of working in the health care sector for more than five years. Having practiced as a physician for a long time, I developed a strong interest to engage myself in healthcare research and health management. I am well-versed in research methodologies. I have experience in conducting extensive literature review, and writing highly academic and professional reports. I am skilled at implementing several data analysis techniques and performing statistical modeling and tests on data from different sectors, especially health data using various softwares such as SPSS, AMOS. My growing interest in the use of Artificial Intelligence in healthcare has led me to learn and ace multiple programming languages (R, Python). I have strong problem solving, critical thinking, and analytical skills. I am experienced in working in a fast-paced environment; managing multiple tasks within a limited time frame, and collaborating within a team environment. I am able to communicate in four different languages (English, French, Bengali, Hindi). I am a fast learner who is very passionate to learn new subjects, face new challenges, and adopt new ideas. 
 
 ### Markdown
 
