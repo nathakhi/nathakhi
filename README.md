@@ -9,7 +9,7 @@ I am a highly motivated and experienced healthcare professional with a demonstra
 - Programming environment: Jupyter notebook
 - Packages: MASS, Stargazer
 
-**Short Description**
+**Short Description**  
 **Background:** Sleep is undoubtedly an inevitable part of our life. Despite an abundance of literature on sleep and its determinants and influencing factors, little has been explored on the independent association of sleep with income. The purpose of this study was twofold- i) to examine the relation of income with sleep quality and ii) the role of self-reported health status in explaining the socioeconomic differences in sleep.
 
 **Methods:** Data from the Canadian Community Health Survey (2017-18) was used for the study including several sociodemographic, socioeconomic, lifestyle, and self-reported health variables. Exploratory data analysis and Ordinal logistic regression analyses were used to examine if the association between income and trouble sleeping was independent of other factors as well as whether health status mediates the socio-economic effects on sleep.
@@ -22,7 +22,7 @@ I am a highly motivated and experienced healthcare professional with a demonstra
 - Statistical software: SPSS, AMOS, Plugin: Andrew Hayes Process Macro
 - Statistical tests: Descriptive Statistics, Exploratory Factor Analysis, Confirmatory Factor Analysis and Structural Equation Modelling (SEM), Moderation analysis.
 
-**Short Description**
+**Short Description**  
 **Background:** Service quality and price fairness are deemed to be two important antecedents of customer satisfaction and customer loyalty which are two key strategic sources of sustainable performance for any company. The purpose of this study is twofold - to examine the effect of service quality and price fairness on customer loyalty through satisfaction and to understand the effect of two socio-demographic characteristics of customers on these relationships. 
 
 **Methods:** Secondary data was collected from an open data repository that met the criteria to address the study objectives. Data consisted of 384 observations. After data screening and preparation, the validity and reliability of the constructs including five dimensions of service quality, price fairness, customer satisfaction, and customer loyalty were assessed with Chronbach’s alpha and exploratory factor analysis. After that, confirmatory factor analysis was conducted to confirm the attributes of each factor by assessing the convergent and discriminant validity of the constructs with average variance extracted values and composite reliability. Three of the hypotheses were tested using structural equation modeling in AMOS and four were tested with Andrew Hayes process macro in SPSS. 
@@ -35,7 +35,7 @@ I am a highly motivated and experienced healthcare professional with a demonstra
 - Statistical software: SPSS.
 - Statistical tests: Descriptive statistics, Hierarchial Regression
 
-**Short Description**
+**Short Description**  
 **Background:** Growing concern over the increasing trend of employee turnover in organizations has attracted scholars to investigate and identify its significant predictors. This study examines whether employee perceptions of human resource management (HRM) practices influence their intention to stay with the organization. Based on the previous literature and established theories, I hypothesized that pay satisfaction, satisfaction with work involvement, and satisfaction with
 learning opportunities within the organization positively predict the intention to stay. 
 
