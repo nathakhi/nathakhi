@@ -27,7 +27,7 @@ I am known as a problem-solver within my circle of friends, families, and collea
 
 On a more personal level, I am a fun-loving person, humorous, love to explore, and a strong family woman! My motto in life is “Never give up on your dream”. 
 
-### Projects
+## Projects
 
 **1. Do Rich People Sleep in Peace? Relationship Between Income And Sleep Quality (Grade: A+)**
 - Programming language: R
